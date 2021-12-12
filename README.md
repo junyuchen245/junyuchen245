@@ -2,8 +2,6 @@
 
 Welcome to my page! I'm Junyu Chen, currently a research assistant in [Radiological Physics Division](https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics/) at Johns Hopkins University.
 
-📈 my github stats
-
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=junyuchen245&show_icons=true&theme=gotham" alt="junyuchen245" />
 
 <!--
