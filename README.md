@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Welcome to my page! I'm Junyu Chen, currently a research assistant in [Radiological Physics Division](https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics/) at Johns Hopkins University.\
+Welcome to my page! I'm Junyu Chen, currently a faculty research associate in [Radiological Physics Division](https://www.hopkinsmedicine.org/radiology/research/divisions/radiological-physics/) at Johns Hopkins University.\
 See my [full about page here](http://junyuchen245.github.io)!
  
 
